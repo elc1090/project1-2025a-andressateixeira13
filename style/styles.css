@@ -40,6 +40,12 @@ body {
     overflow: hidden;
 }
 
+.promo-content img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
 .arrow-button {
     position: absolute;
     top: 50%;
@@ -104,7 +110,7 @@ body {
 }
 
 .footer {
-    background-color: #b22f66; /* Cor de fundo ajustada */
+    background-color: #b22f66; 
     color: white;
     padding: 30px 10%;
 }
