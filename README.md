@@ -16,10 +16,10 @@ Acesso: Substitua este texto pela URL para acesso ao site publicado
 
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
+Andressa Teixeira | Sistemas para Internet
 
 #### Cliente
-Substitua este texto pela identificação do cliente
+João Marcos
 
 
 
@@ -27,13 +27,15 @@ Substitua este texto pela identificação do cliente
 #### Site/app original
 
 ##### Link
-Substitua este texto pela URL do site/app escolhido
+https://www.wine.com.br/?srsltid=AfmBOorQdSJTjJUaRmu9cTmm4cF1MnvMZ0IkrKXITTLETaYHJpG9mue8
 
 ##### Descrição
 Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
 
 #### Demanda do(a) cliente
-Substitua este texto pela demanda do(a) cliente
+Um quadrado de promoções com a setinha como tem no inicio do site.
+Produtos abaixo com o botão de adicionar (O que outros clientes estão comprando, o nome dessa seção)
+Uma barrinha acima igual a do site, com as opções todas e afins relacionados (lembrando que não precisam funcionar os botões)
 
 #### Desenvolvimento
 
@@ -43,14 +45,14 @@ Substitua este texto por uma descrição do processo de desenvolvimento, explica
 #### Tecnologias
 
 Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
-- ...
-- ...
+- HTML
+- CSS
 - 
 
 #### Ambiente de desenvolvimento
 
 Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desenvolvimento que você usou (por exemplo, VS Code + alguma extensão, etc.)
-- ...
+- VS Code
 - ...
 
 #### Referências e créditos
