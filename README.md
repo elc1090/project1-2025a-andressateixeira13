@@ -1,18 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-0GsTofh)
 # Projeto: Remake de site/app web
 
-> 1. Leia com atenção as instruções abaixo para editar este README em formato Markdown.
-> 2. Substitua todos os trechos de texto iniciados com "Substitua" por informações do seu projeto, conforme solicitado em cada trecho.
-> 3. Substitua a imagem por um screenshot do projeto (o arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do seu repositório de entrega. Peça ajuda se não souber como editar ou entregar!
-> Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
-
-![Substitua a imagem ao lado por um screenshot do seu projeto](img/chops-ux-step-4.png "Screenshot do projeto. Imagem temporária extraída de https://mdswanson.com/static/chops-ux-step-4.png")
+![Screenshot do projeto](img/Screenshot.png )
 
 
-Acesso: Substitua este texto pela URL para acesso ao site publicado
+Acesso: (https://www.wine.com.br/?srsltid=AfmBOorQdSJTjJUaRmu9cTmm4cF1MnvMZ0IkrKXITTLETaYHJpG9mue8)
 
 
 #### Desenvolvedor(a)
@@ -21,16 +13,13 @@ Andressa Teixeira | Sistemas para Internet
 #### Cliente
 João Marcos
 
-
-
-
 #### Site/app original
 
 ##### Link
 https://www.wine.com.br/?srsltid=AfmBOorQdSJTjJUaRmu9cTmm4cF1MnvMZ0IkrKXITTLETaYHJpG9mue8
 
 ##### Descrição
-Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
+A Wine é um e-commerce especializado em vinhos, oferecendo uma ampla variedade de rótulos nacionais e importados. O site possui um design moderno e intuitivo, facilitando a navegação e a experiência do usuário. Com identidade visual e imagens para destacar os produtos.
 
 #### Demanda do(a) cliente
 Um quadrado de promoções com a setinha como tem no inicio do site.
@@ -39,7 +28,13 @@ Uma barrinha acima igual a do site, com as opções todas e afins relacionados (
 
 #### Desenvolvimento
 
-Substitua este texto por uma descrição do processo de desenvolvimento, explicando suas escolhas para o remake e etapas do trabalho (por exemplo, como foi coletado o conteúdo, como você lidou com as demandas, etc.)
+Coleta de Conteúdo – Reuni e analisei o material original para definir com o cliente o que deveria ser mantido ou ajustado.
+
+Planejamento – Estruturei a organização das informações e defini tecnologias.
+
+Implementação – Desenvolvi o layout responsivo, estilização de acordo com o site e os  requisitos do cliente.
+
+Testes e Ajustes – Verifiquei compatibilidade, responsividade e fiz melhorias conforme necessário.
 
 
 #### Tecnologias
@@ -47,19 +42,15 @@ Substitua este texto por uma descrição do processo de desenvolvimento, explica
 Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
 - HTML
 - CSS
-- 
 
 #### Ambiente de desenvolvimento
-
-Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desenvolvimento que você usou (por exemplo, VS Code + alguma extensão, etc.)
 - VS Code
-- ...
+- Extensão Live Server
 
 #### Referências e créditos
-
-Substitua este trecho por uma lista bem detalhada de todo material que você consultou para ajudar no projeto, por exemplo:  URL de templates usados, URL de icon kits usados, créditos para colegas que colaboraram, geradores de código (incluindo alguns prompts usados para o ChatGPT, se for o caso)
-- ...
-- ...
+- https://codyhouse.co/
+- https://developer.mozilla.org/pt-BR/docs/Web/CSS
+- 
 
 
 
