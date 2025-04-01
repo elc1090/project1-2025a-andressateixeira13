@@ -4,7 +4,7 @@
 ![Screenshot do projeto](img/Screenshot.png )
 
 
-Acesso: (https://www.wine.com.br/?srsltid=AfmBOorQdSJTjJUaRmu9cTmm4cF1MnvMZ0IkrKXITTLETaYHJpG9mue8)
+Acesso: (https://elc1090.github.io/project1-2025a-andressateixeira13/)
 
 
 #### Desenvolvedor(a)
